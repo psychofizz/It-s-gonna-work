@@ -6,3 +6,9 @@
     color: white;
     box-shadow: 2px;
 }
+
+.pedidosSquare{
+    background-color: #dff6f6;
+    border-radius: 20px;
+    margin: 5px;
+}
